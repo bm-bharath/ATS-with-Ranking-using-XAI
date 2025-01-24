@@ -1,7 +1,7 @@
+PyPDF2
+gensim
+lime
 numpy
 pandas
-gensim
+panel
 scikit-learn
-PyPDF2
-ipykernel
-jupyter
