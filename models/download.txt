@@ -1,4 +1,4 @@
-
+https://huggingface.co/NathaNn1111/word2vec-google-news-negative-300-bin/blob/main/GoogleNews-vectors-negative300.bin
 
 
 Download the model using above link. and place it in models floder.
