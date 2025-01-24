@@ -1,0 +1,7 @@
+numpy
+pandas
+gensim
+scikit-learn
+PyPDF2
+ipykernel
+jupyter
